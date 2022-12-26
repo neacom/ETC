@@ -21,3 +21,4 @@ print("Nea")
 # \" agar " tidak dianggap sebagai tanda pembuka atau penutup string
 print("Ini \
 dua baris tapi dianggap satu baris")
+print("ini baris pertama \n baris kedua \n baris ketiga")
