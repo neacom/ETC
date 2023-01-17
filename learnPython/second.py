@@ -13,6 +13,7 @@ print("Nea")
 #Float: bilangan pecahan seperti 7.6
 #Boolean: logika benar atau salah yaitu True dan False
 
+#string
 # \ mengabakan pindah baris seingga bisa menulis secara lebih dari satu baris namun hanya di anggap sebagai satu baris
 # \n untuk berpindah baris
 # \t untuk tab
@@ -22,3 +23,15 @@ print("Nea")
 print("Ini \
 dua baris tapi dianggap satu baris")
 print("ini baris pertama \n baris kedua \n baris ketiga")
+print("a\tb\tc")
+print("untuk menampilkan backslash menggunakan double backslash \\")
+print('untuk menggunakan tanda petik satu tetapi untuk menampilkan yang harus menggunakan tanda petik satu pula maka bisa menggunakan backslash juga seperti berikut it\'s')
+print('begitu pula dengan tanda tanda lainnya \!')
+
+#integer
+#untuk menampilkan atau memasukkan integer tidak memerlukan tanda petik '/"
+print(type("123"))
+print(type(123))
+#untuk nilai yang berisi koma maka menggunakan tanda titik
+#untuk nilai yang memiliki koma maka termasuk pada type data float
+print(type(1.3))
