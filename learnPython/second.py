@@ -35,3 +35,22 @@ print(type(123))
 #untuk nilai yang berisi koma maka menggunakan tanda titik
 #untuk nilai yang memiliki koma maka termasuk pada type data float
 print(type(1.3))
+#untuk menuliskan exponen juga dapat dalam float
+print(3E4)
+print(453345E-3)
+
+#boolean
+#bolean menyimpan nilai True dan False atau 1 dan 0
+print(type(True))
+
+#Operator
+print(43+12)
+print(34-2)
+print(2*3)
+print(4/2)
+print(2**2)
+#modulo / sisa
+print(8 % 2)
+#integer division
+print(6//4)
+print(-6//4)
